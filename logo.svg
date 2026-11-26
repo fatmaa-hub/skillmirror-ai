@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="SkillMirror AI — Learn, Grow, Connect">
+<g transform="translate(232 8) scale(.88)"><defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f1e7d6"/><stop offset="1" stop-color="#d9cab0"/></linearGradient>
+<linearGradient id="rf" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#111" stop-opacity=".32"/><stop offset="1" stop-color="#111" stop-opacity="0"/></linearGradient>
+</defs>
+<path d="M100 0A100 100 0 0 1 200 100A100 100 0 0 1 100 200H18Q0 200 0 182V100A100 100 0 0 1 100 0Z" fill="url(#bg)"/>
+<g fill="#111"><rect x="52" y="86" width="24" height="34" rx="5"/><rect x="86" y="66" width="24" height="54" rx="5"/><rect x="120" y="44" width="24" height="76" rx="5"/></g>
+<rect x="44" y="126" width="108" height="4" rx="2" fill="#111"/>
+<g fill="url(#rf)"><rect x="52" y="136" width="24" height="17" rx="5"/><rect x="86" y="136" width="24" height="27" rx="5"/><rect x="120" y="136" width="24" height="38" rx="5"/></g>
+<path d="M160 22Q162 34 174 36Q162 38 160 50Q158 38 146 36Q158 34 160 22Z" fill="#111"/></g>
+<text x="320" y="290" text-anchor="middle" font-family="system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="68" font-weight="800" letter-spacing="-2" fill="#111">SkillMirror <tspan fill="#8a7a5c" font-weight="900">AI</tspan></text>
+<text x="320" y="350" text-anchor="middle" font-family="system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="19" font-weight="700" letter-spacing="7" fill="#8a7a5c">LEARN · GROW · CONNECT</text>
+</svg>
